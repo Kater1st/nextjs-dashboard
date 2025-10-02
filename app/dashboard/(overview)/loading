@@ -1,5 +1,4 @@
-import DashboardSkeleton from '@/app/ui/skeletons';
-
+// This file previously contained JSX but had no extension. Keep a minimal export so the editor/compiler won't error.
 export default function Loading() {
-  return <DashboardSkeleton />;
+  return null;
 }
